@@ -1,1 +1,2 @@
-console.log('bonjour');
+console.log('hello');
+item=document.getElementById('div')
